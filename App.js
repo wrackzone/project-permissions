@@ -1,6 +1,5 @@
 var app = null;
-//var topLevelProject = "Corporate Initiatives";
-var topLevelProject = "Salesforce Program";
+var topLevelProject = "Corporate Initiatives";
 
 Ext.define('CustomApp', {
     extend: 'Rally.app.App',
